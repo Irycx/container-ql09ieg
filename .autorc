@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Irycx",
+  "repo": "container-ql09ieg",
+  "name": "Irycx",
+  "email": "minecraft.iry@icloud.com",
+}
